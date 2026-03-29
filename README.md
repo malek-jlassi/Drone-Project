@@ -1,12 +1,10 @@
 # Drone Pathfinding in Unity
 
-![Unity Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Unity_2021.svg)
-
 ## 📌 Project Overview
 This Unity project demonstrates a **multi-drone pathfinding system** using a grid-based approach.  
 Each drone moves autonomously toward its assigned target while avoiding obstacles and other drones, using a custom **A* pathfinding algorithm**.
 
-- Drones spawn near targets with a configurable random offset.
+- Drones spawn the targets with a configurable random offset.
 - The system supports multiple drones moving simultaneously.
 - Paths are dynamically generated based on grid obstacles.
 
